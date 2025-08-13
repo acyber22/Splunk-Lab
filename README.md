@@ -1,2 +1,7 @@
 # Splunk-Lab
-Splunk is a data analytics platform designed to search, analyze, and visualize machine-generated data. It supports the creation of statistical tables, reports, and visualizations to derive insights from large datasets. Common data sources include application logs, transaction records, configuration files, authentication logs, and fault data. Data ingestion begins with the installation of a forwarder on the host system, which transmits data to indexers. Indexers store the incoming data in structured repositories known as indexes, which are further organized into buckets containing the indexed files. This architecture enables users to perform efficient searches and real-time analysis on the ingested data.
+This lab provides hands-on experience with Splunk, a powerful data analytics platform. I focused on the core functions of Splunk to search, analyze, and visualize machine-generated data.
+
+Setup: Configured a Splunk instance, created an admin role, and set up multiple users with specific roles.
+Data Management: Practiced indexing data to enable its use in searches and reports.
+Search & Reporting: Developed basic to advanced search skills, starting with simple keyword searches and progressing to more complex queries using wildcards and Boolean expressions to refine results.
+Insight Generation: Utilized Splunk's features to create statistical tables, reports, and visualizations from large datasets.
