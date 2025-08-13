@@ -1,5 +1,6 @@
 # Splunk-Lab
-This lab provides hands-on experience with Splunk, a powerful data analytics platform. I focused on the core functions of Splunk to search, analyze, and visualize machine-generated data.
+In this lab I gained hands-on experience with Splunk, a powerful data analytics platform. 
+I focused on the core functions of Splunk to search, analyze, and visualize machine-generated data.
 
 Setup: Configured a Splunk instance, created an admin role, and set up multiple users with specific roles.
 Data Management: Practiced indexing data to enable its use in searches and reports.
